@@ -19,7 +19,7 @@ Skills: Java/ Spring / HTML / SQL / GIT /
 - ⚡ Fun fact: Laserowy Babilon is first professional Polish Team in laser tag. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ChmielewskiPatryk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/patryk-chmielewski-4a070a139/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ChmielewskiPatryk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/patryk-chmielewski-4a070a139/)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChmielewskiPatryk)](https://github.com/anuraghazra/github-readme-stats)
